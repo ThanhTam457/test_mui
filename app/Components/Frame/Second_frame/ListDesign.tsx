@@ -1,3 +1,5 @@
+'use client'
+
 import { Box, Link } from "@mui/material";
 const d_list = [
     'Organisation design',
